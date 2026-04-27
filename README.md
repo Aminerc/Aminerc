@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Amine
 
-Je suis **Finance & Data Automation Engineer**, basé à Paris, à la croisée de la finance d’entreprise, de la data et de la tech.  
+Je suis **Finance & Data Automation et Builder d'outils**, basé à Paris, à la croisée de la finance d’entreprise, de la data et de la tech.  
 Je conçois, industrialise et automatise des outils pour la fonction Finance : P&L dynamiques, dashboards de performance, modèles de marges et reportings pilotés par la donnée.
 
 ---
@@ -17,9 +17,10 @@ Je conçois, industrialise et automatise des outils pour la fonction Finance : P
 ## 🛠️ Stack & outils
 
 - Finance / BI : Excel avancé, Power BI, Power Query.
+- Logiciels : Pigment, XRP Flex, Quadratus, Cogilog, Pennylane, SageCompta, Cegid Expert Compta...
 - Data : SQL, Python (pandas, automatisation, scripts ETL légers).
 - Automation & Apps : n8n, Power Platform, intégrations API, utilisation d’IA générative dans les workflows.
-- Environnement : Git/GitHub, VS Code, Next.js pour quelques apps web orientées data/finance.
+- Environnement : Git/GitHub, Cursor, Next.js pour quelques apps web orientées data/finance.
 
 ---
 
@@ -27,7 +28,7 @@ Je conçois, industrialise et automatise des outils pour la fonction Finance : P
 
 - Transformation de la fonction Finance par la donnée et l’automatisation.
 - Mise en place de processus robustes mais pragmatiques, centrés sur la décision.
-- Expérimenter de nouvelles idées en “vibe coding” : prototypes rapides, petits outils qui simplifient la vie des équipes Finance.
+- Expérimenter de nouvelles idées en “low code” : prototypes rapides, petits outils qui simplifient la vie des équipes Finance.
 
 ---
 
